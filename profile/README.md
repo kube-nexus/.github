@@ -1,4 +1,4 @@
-# KubeNexus Organization
+# KubeNexus
 
 **Scheduling and control plane system focused on GPU placement, fragmentation, and topology-aware workload orchestration across heterogeneous fleets.**
 
@@ -9,8 +9,8 @@
 
 ## Key Projects
 
-- [kubenexus-control-plane](https://github.com/kube-nexus/kubenexus-control-plane): Workload intent API, placement planning, and explainability for GPU-accelerated Kubernetes clusters.
 - [kubenexus-scheduler](https://github.com/kube-nexus/kubenexus-scheduler): Topology- and fragmentation-aware scheduler for multi-tenant GPU fleets.
+- [kubenexus-control-plane](https://github.com/kube-nexus/kubenexus-control-plane): Workload intent API, placement planning, and explainability for GPU-accelerated Kubernetes clusters.
 
 See our repositories for schedulers, control plane, and deployment tools.
 
